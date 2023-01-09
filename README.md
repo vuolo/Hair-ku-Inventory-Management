@@ -9,3 +9,5 @@ Features:
 * Client Contact list (& manager)
 * Manage appointments using a calendar (links to clients)
 * Check out users
+
+To run Hair ku for yourself, simply download SqlLocalDB.msi as a prerequisite (file is too large to upload here), and run Hair ku.exe in the deliverables folder.
